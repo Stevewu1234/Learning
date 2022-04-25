@@ -9,3 +9,6 @@ cases:
 - synthetix
 - basis cash
 - Olympus
+- treasureDAO(waiting)
+- compound(waiting)
+- uniswap v2(waiting)
