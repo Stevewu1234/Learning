@@ -9,24 +9,24 @@ cases:
 
 - defi
 
-1 synthetix
-2 compound(waiting)
-3 uniswap v2(waiting)
+1 synthetix</br>
+2 compound(waiting)</br>
+3 uniswap v2(waiting)</br>
 
 - stable coin: 
 
-1 basis cash
-2 Olympus
+1 basis cash</br></br>
+2 Olympus</br>
 
 - nft
 
-1 loot
-2 foundation
-3 looksware(waiting)
+1 loot</br>
+2 foundation</br>
+3 looksware(waiting)</br>
 
 - others
 
-1 treasureDAO(waiting)
+1 treasureDAO(waiting)</br>
 
 
 
